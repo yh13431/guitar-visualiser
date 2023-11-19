@@ -1,0 +1,7 @@
+.display {
+    display: inline-flex;
+    transform: rotate(-90deg);
+    transform-origin: 0% 30%;
+    margin-right: 100px;
+  }
+  
