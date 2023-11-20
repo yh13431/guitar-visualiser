@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './display.css';
-import Fretboard from '../Fretboard/Fretboard';
+import Fretboard from '../fretboard/Fretboard';
 
 class Display extends React.Component{
 
