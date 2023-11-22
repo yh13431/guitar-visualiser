@@ -1,10 +1,10 @@
 import './App.css';
-import Fretboard from './components/Fretboard/Fretboard';
+import Instrument from './Instrument';
 
 function App() {
   return (
     <div className="App">
-      <Fretboard />
+      <Instrument />
     </div>
   );
 }

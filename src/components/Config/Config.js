@@ -8,7 +8,7 @@ export const chordPatterns = {
   
   
   // scales
-  export const chromatic = ["C", "C#/Db", "D", "D#/Eb", "E", "F", "F#/Gb", "G", "G#/Ab", "A", "A#/Bb", "B"];
+  export const chromaticScale = ["C", "C#/Db", "D", "D#/Eb", "E", "F", "F#/Gb", "G", "G#/Ab", "A", "A#/Bb", "B"];
   export const c = ["C", "D", "E", "F", "G", "A", "B"];
   export const cs = ["C#/Db", "D#/Eb", "F", "F#/Gb", "G#/Ab", "A#/Bb", "C"];
   export const d = ["D", "E", "F#/Gb", "G", "A", "B", "C#/Db"];
