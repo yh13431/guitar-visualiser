@@ -30,7 +30,7 @@ import ChordSelector from '../chord/ChordSelector';
   
     handleModeSelect(scaleTypeValue) {
       this.props.onModeSelect(scaleTypeValue);
-    }
+    } 
   
     handleChordSelect(currentChords) {
       this.props.onChordSelect(currentChords);

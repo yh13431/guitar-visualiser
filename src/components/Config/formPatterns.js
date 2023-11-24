@@ -52,25 +52,27 @@ function getMinorScaleChords(curKey, curMode) {
 
 
 
-function getScaleFunction(curKey, curScale, curMode) {
+export function getNotes(curKey, curScale, curMode) {
   switch (curScale) {
     case 'Major':
-      return curMode === 'Notes' ? getMajorMode(curKey, curMode) : getMajorScaleChords(curKey, curMode);
+      return getMajorMode(curKey, curMode);
     case 'Minor':
-      return curMode === 'Notes' ? getMinorMode(curKey, curMode) : getMinorScaleChords(curKey, curMode);
+      return getMinorMode(curKey, curMode);
     default:
       return null;
   }
 }
 
-export function getNotes(curKey, curScale, curMode) {
-  return getScaleFunction(curKey, curScale, curMode);
-}
-
 export function getChords(curKey, curScale, curMode) {
-  return getScaleFunction(curKey, curScale, curMode);
+  switch (curScale) {
+    case 'Major':
+      return getMajorScaleChords(curKey, curMode);
+    case 'Minor':
+      return getMinorScaleChords(curKey, curMode);
+    default:
+      return null;
+  }
 }
-
 
 
 export function getChordNotes(scaleChords) {
