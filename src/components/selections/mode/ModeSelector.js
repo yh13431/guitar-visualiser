@@ -4,7 +4,8 @@ import './ModeSelector.css';
 
 const modes = [
   { value: 'Natural', label: 'Natural' },
-  { value: 'Pentatonic', label: 'Pentatonic' }
+  { value: 'Pentatonic', label: 'Pentatonic' },
+  { value: 'Blues', label: 'Blues' }
 ];
 
 

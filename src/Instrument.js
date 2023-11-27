@@ -3,6 +3,7 @@ import Display from './components/display/display';
 import Selector from './components/selections/Select/Selector';
 import { getNotes, getChords, getChordNotes } from './components/config/formPatterns'
 
+
 class Instrument extends React.Component {
   constructor(props) {
     super(props);
@@ -56,6 +57,12 @@ class Instrument extends React.Component {
     return (
 
       <div className="Instrument">
+        <div className="Instructions-header">
+          <h1>Guitar Visualiser</h1>
+          <div className="Instructions">
+            Select your desired key, scale and mode. All the relevant notes will then be mapped out on the fretboard below!
+          </div>
+        </div>
         <Selector onKeySelect={this.handleKeySelect}
           onScaleSelect={this.handleScaleSelect}
           onModeSelect={this.handleModeSelect}

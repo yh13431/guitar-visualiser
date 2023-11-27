@@ -8,6 +8,8 @@ function getMajorMode(curKey, curMode) {
       return Config.NaturalMajorKeys[curKey];
     case 'Pentatonic':
       return Config.PentatonicMajorKeys[curKey];
+    case 'Blues':
+      return Config.BluesMajorKeys[curKey];
     default:
       return null;
   }
@@ -19,6 +21,8 @@ function getMinorMode(curKey, curMode) {
       return Config.NaturalMinorKeys[curKey];
     case 'Pentatonic':
       return Config.PentatonicMinorKeys[curKey];
+    case 'Blues':
+      return Config.BluesMinorKeys[curKey];
     default:
       return null;
   }
@@ -33,6 +37,8 @@ function getMajorScaleChords(curKey, curMode) {
       return Config.NaturalMajorChords[curKey];
     case 'Pentatonic':
       return Config.PentatonicMajorChords[curKey];
+    case 'Blues':
+      return Config.BluesMajorChords[curKey];
     default:
       return null;
   }
@@ -44,6 +50,8 @@ function getMinorScaleChords(curKey, curMode) {
       return Config.NaturalMinorChords[curKey];
     case 'Pentatonic':
       return Config.PentatonicMinorChords[curKey];
+    case 'Blues':
+      return Config.BluesMinorChords[curKey];
     default:
       return null;
   }
