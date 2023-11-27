@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/yh13431/guitar-visualiser">
-    <img src="guitar-usage-1.png" alt="Logo" width="80" height="80">
+    <img src="guitar-usage-1.png" alt="Logo">
   </a>
 
   <h3 align="center">Guitar Visualiser</h3>
