@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guitar-visualiser/static/css/main.0f3f4eeb.css",
+    "main.js": "/guitar-visualiser/static/js/main.068b6b81.js",
+    "index.html": "/guitar-visualiser/index.html",
+    "main.0f3f4eeb.css.map": "/guitar-visualiser/static/css/main.0f3f4eeb.css.map",
+    "main.068b6b81.js.map": "/guitar-visualiser/static/js/main.068b6b81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f3f4eeb.css",
+    "static/js/main.068b6b81.js"
+  ]
+}
