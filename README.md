@@ -5,7 +5,7 @@
   <h3 align="center">Guitar Visualiser</h3>
 
   <p align="center">
-    Learn the notes on your fretboard with this easy-to-use app!
+    Front end JavaScript guitar music theory web application
     <br/>
     <br/>
     <a href="https://github.com/yh13431/guitar-visualiser"><strong>Explore the docs »</strong></a>
