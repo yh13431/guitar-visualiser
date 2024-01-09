@@ -11,11 +11,6 @@
     <a href="https://github.com/yh13431/guitar-visualiser"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/yh13431/guitar-visualiser">View Demo</a>
-    .
-    <a href="https://github.com/yh13431/guitar-visualiser/issues">Report Bug</a>
-    .
-    <a href="https://github.com/yh13431/guitar-visualiser/issues">Request Feature</a>
   </p>
 </p>
 
