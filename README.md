@@ -22,7 +22,6 @@
 </p>
 
 
-
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
@@ -37,6 +36,9 @@
 ## About The Project
 
 I created this app so I could familiarise myself with my six string guitar fretboard, and  I still use it currently.
+
+![mode](https://github.com/yh13431/guitar-visualiser/assets/106964833/8a09ea00-1200-4fd6-86e4-6fed7dd3a185)
+![chord](https://github.com/yh13431/guitar-visualiser/assets/106964833/38e49f79-26b7-4edf-bb64-bd180311d9d6)
 
 Users can select their desired key, scale and mode, and all the relevant notes will be mapped out on the fretboard on the same page. 
 
