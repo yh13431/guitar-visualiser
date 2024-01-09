@@ -1,6 +1,5 @@
 <br/>
 <p align="center">
-    <img src="guitar-usage-1.png" alt="Logo">
   </a>
 
   <h3 align="center">Guitar Visualiser</h3>
