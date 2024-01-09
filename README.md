@@ -1,6 +1,5 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/yh13431/guitar-visualiser">
     <img src="guitar-usage-1.png" alt="Logo">
   </a>
 
@@ -26,10 +25,6 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Contributing](#contributing)
 * [License](#license)
 
 
@@ -38,6 +33,7 @@
 I created this app so I could familiarise myself with my six string guitar fretboard, and  I still use it currently.
 
 ![mode](https://github.com/yh13431/guitar-visualiser/assets/106964833/8a09ea00-1200-4fd6-86e4-6fed7dd3a185)
+
 ![chord](https://github.com/yh13431/guitar-visualiser/assets/106964833/38e49f79-26b7-4edf-bb64-bd180311d9d6)
 
 Users can select their desired key, scale and mode, and all the relevant notes will be mapped out on the fretboard on the same page. 
@@ -49,52 +45,6 @@ Each scale has its own chord progression, and users can also view the notes that
 ## Built With
 
 This web app was written in Javascript and built with React. 
-
-## Getting Started
-
-
-### Prerequisites
-
-* npm
-
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
-1. Clone the repo
-
-```sh
-git clone https://github.com/yh13431/guitar-visualiser.git
-```
-
-2. Install NPM packages
-
-```sh
-npm install
-```
-
-3. Run the app
-```sh
-npm start
-```
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/yh13431/guitar-visualiser/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
-* Please make sure you check your spelling and grammar.
-* Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/yh13431/guitar-visualiser/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
