@@ -38,7 +38,9 @@ Each scale has its own chord progression, and users can also view the notes that
 
 ## Built With
 
-This web app was written in Javascript and built with React. 
+Written in: JavaScript
+
+Frontend: React.js
 
 ## License
 
