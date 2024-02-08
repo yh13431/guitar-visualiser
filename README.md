@@ -1,9 +1,6 @@
-<br/>
 <p align="center">
-  </a>
-
+  <img src="https://github.com/yh13431/guitar-visualiser/assets/106964833/8cbc39e6-3247-4c75-870e-f0670861f747" width="300" height="300"/>
   <h3 align="center">Guitar Visualiser</h3>
-
   <p align="center">
     Front end JavaScript guitar music theory web application
     <br/>
@@ -24,7 +21,7 @@
 
 ## About The Project
 
-I created this app so I could familiarise myself with my six string guitar fretboard, and  I still use it currently.
+This web app was created so I could familiarise myself with my six string guitar fretboard. I still use it currently.
 
 ![mode](https://github.com/yh13431/guitar-visualiser/assets/106964833/8a09ea00-1200-4fd6-86e4-6fed7dd3a185)
 
