@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yh13431/guitar-visualiser/assets/106964833/8cbc39e6-3247-4c75-870e-f0670861f747" width="300" height="300"/>
+  <img src="https://github.com/yh13431/guitar-visualiser/assets/106964833/8c3fbb92-0300-433f-b5f2-c5ed415404c3" width="300" height="300"/>
   <h3 align="center">Guitar Visualiser</h3>
   <p align="center">
     Front end JavaScript guitar music theory web application
